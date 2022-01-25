@@ -1,0 +1,22 @@
+{
+  "name": "cy-hands-on-count-table-rows",
+  "version": "1.0.0",
+  "description": "Sample project to demonstrate how to count table rows using Cypress.",
+  "main": "index.html",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "Cypress.io",
+    "cy.handsOn",
+    "Talking About Testing",
+    "Modern Web Testing",
+    "cy-count-table-rows"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.3.1"
+  }
+}
